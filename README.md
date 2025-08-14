@@ -8,6 +8,8 @@ A sleek, modern, mobile-friendly e‑commerce front‑end built with HTML, CSS, 
 - `category.html` – Product listing & filters
 - `product.html` – Single product details
 - `cart.html` – Shopping cart
+-`about.html` - About US Page
+-`contact.html` - Contact Us Page
 
 ## Features
 - Add/Remove/Update cart items
