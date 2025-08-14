@@ -23,4 +23,9 @@ footer {
   display: inline-block;
   cursor: pointer;
 }
-
+footer a:hover {
+  color: #fff !important;
+}
+.text-muted{
+  color: #6c757d !important;
+}
