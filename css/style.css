@@ -10,7 +10,7 @@ body {
 /* Hero Section */
 .hero {
   background-color: #ccc;
-  height: 80vh;
+  height: 50vh;
   display: flex;
   align-items: center;
   justify-content: center;
